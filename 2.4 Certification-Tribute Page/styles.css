@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+main {
+    background-color: #eee;
+    padding: 15px;
+    margin: 30px 8px;
+}
+h1, p {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+}
+figure {
+    background: white;
+    padding: 10px;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+    text-align: center;
+}
+
+#tribute-info {
+    margin: 48px auto 10px auto;
+    text-align: center;
+}
+
+ul, blockquote {
+    max-width: 30%;
+    text-align: left;
+    margin: 10px auto;
+}
+
+ul li, blockquote {
+    padding: 10px 0;
+    line-height: 1.7em;
+}
+
+blockquote p {
+    text-align: left;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+a {
+    color: #477ca7;
+}
+
+h3 {
+    padding-top: 30px;
+}
